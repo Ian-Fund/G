@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mathbot/CLionProjects/cosc2430/lab_2_27/Friend.cpp
+Friend.h
+/home/mathbot/CLionProjects/cosc2430/lab_2_27/Friend.h
+
+/home/mathbot/CLionProjects/cosc2430/lab_2_27/Friend.h
+iostream
+-
+
+/home/mathbot/CLionProjects/cosc2430/lab_2_27/list.cpp
+list.h
+/home/mathbot/CLionProjects/cosc2430/lab_2_27/list.h
+
+/home/mathbot/CLionProjects/cosc2430/lab_2_27/list.h
+Friend.h
+/home/mathbot/CLionProjects/cosc2430/lab_2_27/Friend.h
+
+/home/mathbot/CLionProjects/cosc2430/lab_2_27/main.cpp
+iostream
+-
+Friend.h
+/home/mathbot/CLionProjects/cosc2430/lab_2_27/Friend.h
+list.h
+/home/mathbot/CLionProjects/cosc2430/lab_2_27/list.h
+

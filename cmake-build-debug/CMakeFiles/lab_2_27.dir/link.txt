@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lab_2_27.dir/main.cpp.o CMakeFiles/lab_2_27.dir/Friend.cpp.o CMakeFiles/lab_2_27.dir/list.cpp.o  -o lab_2_27 
